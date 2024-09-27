@@ -1,9 +1,8 @@
 public class Shape {
     private int x;
     private int y;
-    String color = "blue";private Integer x;
-    private Integer y;
     String color = "blue";
+   
     public Diamond (Integer x, Integer y){
         this.x = x;
         this.y = y;
